@@ -1,5 +1,5 @@
 # MediatR-CQRS-Demo
-ASP.Net CORE Web API using CQRS and MeditR Pattern
+ASP.Net CORE Web API using CQRS and MediatR Pattern
 
 CQRS - Command Query Responsibility Segregation using MediatR Pattern
 Query - For Read Operations
